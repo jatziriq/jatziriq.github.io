@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.bbva.com/wp-content/uploads/2019/09/matematicas-recurso-bbva-1920x918.jpg');
+    background-size: cover; /* Para cubrir todo el fondo */
+    background-position: center; /* Para centrar la imagen */
+    background-attachment: fixed; /* Para que la imagen no se mueva al hacer scroll */
+}
+#contenido1 
+{
+    background-image: url('https://i.pinimg.com/474x/b8/1b/aa/b81baa487c3125a393514c5e051bf78f.jpg');
+}
+
+#contenido2 
+{
+    background-image: url('https://i.pinimg.com/474x/b8/1b/aa/b81baa487c3125a393514c5e051bf78f.jpg');
+}
+
+#contenido3 
+{
+    background-image: url('https://i.pinimg.com/474x/b8/1b/aa/b81baa487c3125a393514c5e051bf78f.jpg');
+}
+
+#contenido4
+{
+    background-image: url('https://i.pinimg.com/474x/b8/1b/aa/b81baa487c3125a393514c5e051bf78f.jpg');
+}
+
